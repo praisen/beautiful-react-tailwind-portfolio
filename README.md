@@ -90,8 +90,8 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 ### Clone and Run
 
 ```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
-cd react-tailwind-portfolio
+git clone https://github.com/praisen/beautiful-react-tailwind-portfolio.git
+cd beautiful-react-tailwind-portfolio
 npm install
 npm run dev
 ```
